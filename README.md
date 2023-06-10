@@ -2,7 +2,7 @@
 
 # Keyword Extractor From Job Descriptions
 
-The goal of this program is to extract the keywords of job descreptions for a certain job position ( for instance  : DevOps),  
+The goal of this program is to extract the keywords from all of the job descreptions for a certain job position ( for instance  : DevOps),  
 so the job seeker would know what keywords to use in his or her resume.
 This way we can increase the chance of the resume pass through bots and have more chance of getting the interviews.
 
